@@ -26,12 +26,36 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-修改主题
+## 2.1. theme
 
 修改`~/.zshrc`主题参数。
 
+推荐主题：
+
+- amuse
+- agnoster
+
 ```bash
 ZSH_THEME="amuse"
+```
+
+更多主题：
+
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
+https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes
+
+## 2.2. [Powerline fonts](https://github.com/powerline/fonts)
+
+```bash
+# clone
+git clone https://github.com/powerline/fonts.git --depth=1
+# install
+cd fonts
+./install.sh
+# clean-up a bit
+cd ..
+rm -rf fonts
 ```
 
 # 3. 安装Oh My Zsh插件
