@@ -12,6 +12,6 @@
 |          | goland                                                       |            |
 |          | vs code                                                      |            |
 | markdown | Typora                                                       |            |
-| 浏览器   | hrome                                                        |            |
+| 浏览器   | Chrome                                                       |            |
 
 
