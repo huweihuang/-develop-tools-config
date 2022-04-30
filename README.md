@@ -10,10 +10,10 @@
 |          | [autojump](https://github.com/wting/autojump)                | zsh plugin |
 | IDE      | vim                                                          |            |
 |          | goland,Clion,                                                       |            |
-|          | vs code  插件：【go,remote-ssh】                                                    |            |
+|          | vs code  插件：【go,remote-ssh】                                                    |   使用GitHub账号同步插件配置         |
 |  抓包      | WireShark                                                     |            |
 |  虚拟机      | VirtualBox， VMwareFusion                    |            |
-|  数据库      | Sequel Pro 【mac客户端】                   |            |
+|  数据库      | Sequel Pro 【mac客户端】                   |   使用测试版 https://sequelpro.com/test-builds         |
 |  API      | Dash,Postman                   |            |
 
 # 个人软件
